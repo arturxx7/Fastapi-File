@@ -1,0 +1,2 @@
+class DictReader:
+    pass
